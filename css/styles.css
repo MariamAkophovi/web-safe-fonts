@@ -1,0 +1,28 @@
+p {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+.style1 {
+    font-family: Arial, sans-serif;
+}
+.style2 {
+    font-family: Tahoma, sans-serif;
+}
+.style3 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.style4 {
+    font-family: 'Times New Roman', serif;
+}
+.style5 {
+    font-family: Georgia, serif;
+}
+.style6 {
+    font-family: Garamond, serif;
+}
+.style7 {
+    font-family: 'Courier New', monospace;
+}
+.style8 {
+    font-size: 20px;
+    font-family: 'Brush Script MT', cursive;
+}
